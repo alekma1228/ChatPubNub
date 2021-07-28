@@ -1,0 +1,28 @@
+PODS:
+  - InputBarAccessoryView (5.1.0):
+    - InputBarAccessoryView/Core (= 5.1.0)
+  - InputBarAccessoryView/Core (5.1.0)
+  - MessageKit (3.3.0):
+    - InputBarAccessoryView (~> 5.1.0)
+  - PubNub (4.16.2):
+    - PubNub/Core (= 4.16.2)
+  - PubNub/Core (4.16.2)
+
+DEPENDENCIES:
+  - MessageKit (~> 3.3.0)
+  - PubNub (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - InputBarAccessoryView
+    - MessageKit
+    - PubNub
+
+SPEC CHECKSUMS:
+  InputBarAccessoryView: 19953f486a23e846e9487099f92bbe3456e46ce5
+  MessageKit: 1f07618183be6d92b648ba7a384aafa097362a00
+  PubNub: d2f675a6ec0c03a7ce562c8accc365c1457bf0c6
+
+PODFILE CHECKSUM: ba039fd5f2e8cae9fc8de6185639f32cd1ee42d9
+
+COCOAPODS: 1.10.1
